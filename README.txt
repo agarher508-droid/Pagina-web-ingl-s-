@@ -1,0 +1,1 @@
+English Toxiria v15. Mantén index.html y toxy-mascot.png juntos. Descarga el ZIP y abre index.html con Safari/Chrome; la vista previa del chat puede no ejecutar JavaScript interactivo.
